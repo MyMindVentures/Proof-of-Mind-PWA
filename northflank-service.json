@@ -4,7 +4,7 @@
   "serviceType": "combined",
   "source": {
     "type": "git",
-    "projectUrl": "https://github.com/MyMindVentures/Proof-of-Mind-From-Chaos-to-Clarity",
+    "projectUrl": "https://github.com/MyMindVentures/Proof-of-Mind-PWA",
     "projectType": "github",
     "projectBranch": "main",
     "buildType": "dockerfile",
@@ -62,7 +62,7 @@
     "targetCPUUtilizationPercentage": 70
   },
   "vcsData": {
-    "projectUrl": "https://github.com/MyMindVentures/Proof-of-Mind-From-Chaos-to-Clarity",
+    "projectUrl": "https://github.com/MyMindVentures/Proof-of-Mind-PWA",
     "projectType": "github",
     "projectBranch": "main"
   }
