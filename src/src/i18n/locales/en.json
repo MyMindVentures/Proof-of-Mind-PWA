@@ -1,0 +1,141 @@
+{
+  "app": {
+    "title": "Proof of Mind — From Chaos to Clarity",
+    "description": "A neurodiverse journey of transformation through science, AI, and self-discovery",
+    "tagline": "Where being different becomes light"
+  },
+  "navigation": {
+    "home": "Home",
+    "story": "Story",
+    "proof": "Proof Layer",
+    "interviewer": "AI Interviewer",
+    "donors": "Donor Wall",
+    "outreach": "Outreach",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Proof of Mind",
+    "subtitle": "From Chaos to Clarity",
+    "description": "A neurodiverse journey of transformation through science, AI, and self-discovery. Where being different becomes light.",
+    "cta_primary": "Explore the Journey",
+    "cta_secondary": "View Proof Layer",
+    "badges": {
+      "poe": "Proof of Existence",
+      "expert": "Expert Evidence",
+      "nft": "NFT Ready"
+    }
+  },
+  "story": {
+    "title": "The Journey",
+    "subtitle": "From Chaos to Clarity",
+    "chapters": {
+      "discovery": {
+        "title": "The Discovery",
+        "content": "Understanding neurodiversity and the unique challenges of ADHD/RSD"
+      },
+      "transformation": {
+        "title": "The Transformation",
+        "content": "How science, AI, and self-discovery led to clarity"
+      },
+      "proof": {
+        "title": "The Proof",
+        "content": "Evidence-based documentation of the journey"
+      }
+    }
+  },
+  "proof": {
+    "title": "Proof Layer",
+    "subtitle": "Evidence-Based Documentation",
+    "upload": "Upload Evidence",
+    "verify": "Verify Hash",
+    "download": "Download Proof",
+    "layers": {
+      "integrity": {
+        "title": "Integrity & Evidence Layer",
+        "description": "SHA-256 hash, timestamp + metadata (.poe.json), notarized copy"
+      },
+      "context": {
+        "title": "Context & Intent Proof",
+        "description": "AI Interviewer + transcript = authentic conversation record"
+      },
+      "safety": {
+        "title": "Personal Safety & Legal Readiness",
+        "description": "Timeline, expert statements, legally neutral summaries"
+      }
+    }
+  },
+  "interviewer": {
+    "title": "AI Interviewer",
+    "subtitle": "Intelligent Conversation Partner",
+    "profiles": {
+      "investor": "Investor Interview",
+      "press": "Press Interview",
+      "community": "Community Interview",
+      "expert": "Expert Consultation"
+    },
+    "start_interview": "Start Interview",
+    "record_video": "Record Video",
+    "transcribe": "Transcribe Audio",
+    "generate_story": "Generate Story"
+  },
+  "donors": {
+    "title": "Donor Wall",
+    "subtitle": "Support the Journey",
+    "donate": "Donate Now",
+    "amounts": {
+      "small": "$10",
+      "medium": "$50",
+      "large": "$100",
+      "custom": "Custom"
+    },
+    "thank_you": "Thank you for your support!",
+    "wall": "Donor Wall"
+  },
+  "outreach": {
+    "title": "Outreach Dashboard",
+    "subtitle": "Transparent Communication",
+    "experts": "Expert Network",
+    "media": "Media Kit",
+    "community": "Community",
+    "export": "Export Data"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "download": "Download",
+    "upload": "Upload",
+    "share": "Share",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "refresh": "Refresh"
+  },
+  "languages": {
+    "en": "English",
+    "nl": "Nederlands",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "it": "Italiano",
+    "pt": "Português",
+    "ru": "Русский",
+    "ja": "日本語",
+    "zh": "中文"
+  }
+}
+
+

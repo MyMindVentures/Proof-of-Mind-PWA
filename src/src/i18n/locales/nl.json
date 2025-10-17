@@ -1,0 +1,141 @@
+{
+  "app": {
+    "title": "Proof of Mind — Van Chaos naar Helderheid",
+    "description": "Een neurodiverse reis van transformatie door wetenschap, AI en zelfonderzoek",
+    "tagline": "Waar anders-zijn licht wordt"
+  },
+  "navigation": {
+    "home": "Home",
+    "story": "Verhaal",
+    "proof": "Bewijslaag",
+    "interviewer": "AI Interviewer",
+    "donors": "Donateurswand",
+    "outreach": "Outreach",
+    "language": "Taal"
+  },
+  "hero": {
+    "title": "Proof of Mind",
+    "subtitle": "Van Chaos naar Helderheid",
+    "description": "Een neurodiverse reis van transformatie door wetenschap, AI en zelfonderzoek. Waar anders-zijn licht wordt.",
+    "cta_primary": "Verken de Reis",
+    "cta_secondary": "Bekijk Bewijslaag",
+    "badges": {
+      "poe": "Bewijs van Bestaan",
+      "expert": "Expert Bewijs",
+      "nft": "NFT Klaar"
+    }
+  },
+  "story": {
+    "title": "De Reis",
+    "subtitle": "Van Chaos naar Helderheid",
+    "chapters": {
+      "discovery": {
+        "title": "De Ontdekking",
+        "content": "Neurodiversiteit begrijpen en de unieke uitdagingen van ADHD/RSD"
+      },
+      "transformation": {
+        "title": "De Transformatie",
+        "content": "Hoe wetenschap, AI en zelfonderzoek leidden tot helderheid"
+      },
+      "proof": {
+        "title": "Het Bewijs",
+        "content": "Evidence-based documentatie van de reis"
+      }
+    }
+  },
+  "proof": {
+    "title": "Bewijslaag",
+    "subtitle": "Evidence-Based Documentatie",
+    "upload": "Upload Bewijs",
+    "verify": "Verifieer Hash",
+    "download": "Download Bewijs",
+    "layers": {
+      "integrity": {
+        "title": "Integriteit & Bewijslaag",
+        "description": "SHA-256 hash, timestamp + metadata (.poe.json), notarized copy"
+      },
+      "context": {
+        "title": "Context & Intent Bewijs",
+        "description": "AI Interviewer + transcript = authentiek gespreksrecord"
+      },
+      "safety": {
+        "title": "Persoonlijke Veiligheid & Juridische Paraatheid",
+        "description": "Timeline, expert verklaringen, juridisch neutrale samenvattingen"
+      }
+    }
+  },
+  "interviewer": {
+    "title": "AI Interviewer",
+    "subtitle": "Intelligente Gesprekspartner",
+    "profiles": {
+      "investor": "Investeerder Interview",
+      "press": "Pers Interview",
+      "community": "Gemeenschap Interview",
+      "expert": "Expert Consultatie"
+    },
+    "start_interview": "Start Interview",
+    "record_video": "Neem Video Op",
+    "transcribe": "Transcribeer Audio",
+    "generate_story": "Genereer Verhaal"
+  },
+  "donors": {
+    "title": "Donateurswand",
+    "subtitle": "Steun de Reis",
+    "donate": "Doneer Nu",
+    "amounts": {
+      "small": "€10",
+      "medium": "€50",
+      "large": "€100",
+      "custom": "Aangepast"
+    },
+    "thank_you": "Bedankt voor je steun!",
+    "wall": "Donateurswand"
+  },
+  "outreach": {
+    "title": "Outreach Dashboard",
+    "subtitle": "Transparante Communicatie",
+    "experts": "Expert Netwerk",
+    "media": "Media Kit",
+    "community": "Gemeenschap",
+    "export": "Exporteer Data"
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Er is een fout opgetreden",
+    "retry": "Opnieuw proberen",
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "confirm": "Bevestigen",
+    "delete": "Verwijderen",
+    "edit": "Bewerken",
+    "view": "Bekijken",
+    "download": "Downloaden",
+    "upload": "Uploaden",
+    "share": "Delen",
+    "copy": "Kopiëren",
+    "copied": "Gekopieerd!",
+    "close": "Sluiten",
+    "back": "Terug",
+    "next": "Volgende",
+    "previous": "Vorige",
+    "submit": "Verzenden",
+    "search": "Zoeken",
+    "filter": "Filteren",
+    "sort": "Sorteren",
+    "refresh": "Vernieuwen"
+  },
+  "languages": {
+    "en": "English",
+    "nl": "Nederlands",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "it": "Italiano",
+    "pt": "Português",
+    "ru": "Русский",
+    "ja": "日本語",
+    "zh": "中文"
+  }
+}
+
+
